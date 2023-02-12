@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         // Variables/Inputs from the user
-        double firstNumber = 6;
-        double secondNumber = 9;
+        double firstNumber = 8973;
+        double secondNumber = 8796;
         // Initial prompt from the program
         System.out.println("What is your first number?");
         System.out.println("What is your second number?");

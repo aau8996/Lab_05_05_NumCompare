@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69e0baf6-ee95-4b55-a23d-06eb314ba680" name="Changes" comment="Final Code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69e0baf6-ee95-4b55-a23d-06eb314ba680" name="Changes" comment="Final, final, final code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,11 +45,102 @@
       <option name="project" value="LOCAL" />
       <updated>1676238551169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final Code">
+      <created>1676238590720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238590720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final Code">
+      <created>1676238631928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238631928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final Code">
+      <created>1676238669331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238669331</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final code">
+      <created>1676238750002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238750002</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final code">
+      <created>1676238798982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238798982</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final, final code">
+      <created>1676238899541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238899541</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final, final code">
+      <created>1676239033426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239033426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final, final code">
+      <created>1676239144074</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239144074</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final, final code">
+      <created>1676239176926</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239176926</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final, final code">
+      <created>1676239193679</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239193679</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final, final code">
+      <created>1676239201089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239201089</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Code" />
+    <MESSAGE value="Final code" />
+    <MESSAGE value="Final, final, final code" />
+    <MESSAGE value="Final, final code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final, final code" />
   </component>
 </project>
